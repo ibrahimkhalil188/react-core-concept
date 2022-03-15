@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.person{
+  background-color: red;
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid goldenrod;
+  border-radius: 20px;
+}
